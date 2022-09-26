@@ -5,6 +5,7 @@
     <Nullable>enable</Nullable>
     <TrimMode>copyused</TrimMode>
     <BuiltInComInteropSupport>true</BuiltInComInteropSupport>
+    <IsPackable>false</IsPackable>
     <AvaloniaVersion>0.10.18</AvaloniaVersion>
   </PropertyGroup>
   <ItemGroup>
