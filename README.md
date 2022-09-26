@@ -1,7 +1,7 @@
 # XamlAdorner
 
-[![NuGet](https://img.shields.io/nuget/v/MinimalAvalonia.svg)](https://www.nuget.org/packages/MinimalAvalonia)
-[![NuGet](https://img.shields.io/nuget/dt/MinimalAvalonia.svg)](https://www.nuget.org/packages/MinimalAvalonia)
+[![NuGet](https://img.shields.io/nuget/v/MinimalAvalonia.svg)](https://www.nuget.org/packages/XamlAdorner)
+[![NuGet](https://img.shields.io/nuget/dt/MinimalAvalonia.svg)](https://www.nuget.org/packages/XamlAdorner)
 
 Set control adorner from xaml in Avalonia
 
